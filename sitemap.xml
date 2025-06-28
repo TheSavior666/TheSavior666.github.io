@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/blog/</loc>
+    <loc>/categories/blog/</loc>
     <lastmod>2025-06-27T02:43:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2025-06-27T02:43:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/code/</loc>
+    <loc>/tags/code/</loc>
     <lastmod>2025-06-27T02:43:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/design-patterns/</loc>
+    <loc>/tags/design-patterns/</loc>
     <lastmod>2025-06-27T02:43:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/designpatterns101/</loc>
+    <loc>/posts/designpatterns101/</loc>
     <lastmod>2025-06-27T02:43:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-06-27T02:43:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-06-27T02:43:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/software-design/</loc>
+    <loc>/tags/software-design/</loc>
     <lastmod>2025-06-27T02:43:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-06-27T02:43:35+01:00</lastmod>
   </url>
 </urlset>

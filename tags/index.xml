@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on KodeMed</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on KodeMed</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>ar</language>
     <lastBuildDate>Fri, 27 Jun 2025 02:43:35 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code</title>
-      <link>http://localhost:1313/tags/code/</link>
+      <link>/tags/code/</link>
       <pubDate>Fri, 27 Jun 2025 02:43:35 +0100</pubDate>
-      <guid>http://localhost:1313/tags/code/</guid>
+      <guid>/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Design Patterns</title>
-      <link>http://localhost:1313/tags/design-patterns/</link>
+      <link>/tags/design-patterns/</link>
       <pubDate>Fri, 27 Jun 2025 02:43:35 +0100</pubDate>
-      <guid>http://localhost:1313/tags/design-patterns/</guid>
+      <guid>/tags/design-patterns/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Design</title>
-      <link>http://localhost:1313/tags/software-design/</link>
+      <link>/tags/software-design/</link>
       <pubDate>Fri, 27 Jun 2025 02:43:35 +0100</pubDate>
-      <guid>http://localhost:1313/tags/software-design/</guid>
+      <guid>/tags/software-design/</guid>
       <description></description>
     </item>
   </channel>
