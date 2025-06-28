@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on KodeMed</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on KodeMed</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>ar</language>
+    <lastBuildDate>Fri, 27 Jun 2025 02:43:35 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Fri, 27 Jun 2025 02:43:35 +0100</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
